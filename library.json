@@ -1,0 +1,16 @@
+{
+    "name": "Adafruit_LiquidCrystal",
+    "version": "1.0.0",
+    "keywords": "LCD,1602",
+    "description": "此库可驱动1602、20*4等LCD屏，同时也可驱动I2C和SPI接口的LCD",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/Adafruit_LiquidCrystal.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
